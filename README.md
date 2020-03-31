@@ -1,11 +1,10 @@
+![](./snap-css-grid.png)
+
 # CSS-Grid Example
 This is my first css-grid example
 
 ## Me
-
 _Hi everyone, i'm David, and this is my first example using css-grid_
-
-![](./snap-css-grid.png)
 
 # Resources
 - https://www.heropatterns.com/
